@@ -18,8 +18,10 @@
 > touch .env
 
 
-5. Here we can start our docker to run project
+5. Here we can start our docker to run project, also after first start there will created postgres directory and we must again start our project with docker 
 > docker compose up -d --build
+or
+> sudo docker compose up -d --build
 
 
 6. Here we can check our endpoints: 
