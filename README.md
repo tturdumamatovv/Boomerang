@@ -1,7 +1,7 @@
 <h3>Boomerang</h3>
 
 1. First you need to make a git clone of our project
-> git@github.com:tturdumamatovv/boomerang.git
+> git clone git@github.com:tturdumamatovv/boomerang.git
 
 
 2. Here we create a virtual environment (for linux), also you activate it
